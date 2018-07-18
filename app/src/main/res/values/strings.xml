@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Button</string>
+    <string name="bnY">文字带阴影按钮</string>
+    <string name="buP">普通按钮</string>
+    <string name="bnI">带图片按钮</string>
+</resources>
